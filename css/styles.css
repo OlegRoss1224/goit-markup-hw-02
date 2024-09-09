@@ -39,6 +39,9 @@ body {
   letter-spacing: 0.02em;
   color: #30422e;
 }
+.colorlink {
+  color: #2e2f42;
+}
 .menu-link:hover,
 .menu-link:focus {
   color: #404bbf;
@@ -61,6 +64,9 @@ body {
 /* ================ /HEADER STYLES ================ */
 
 /* ================ HERO STYLES ================ */
+.hero-section {
+  background-color: #2e2f42;
+}
 .main-title {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
@@ -82,7 +88,7 @@ body {
 }
 .order-service-btn:hover,
 .order-service-btn:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 /* ================ /HERO STYLES ================ */
 
