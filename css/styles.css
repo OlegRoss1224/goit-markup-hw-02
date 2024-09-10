@@ -146,9 +146,7 @@ body {
 /* ================ /TEAM STYLES ================ */
 
 /* ================ PORTFOLIO STYLES ================ */
-.portfolio-section {
-  background: #f4f4fd;
-}
+
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
@@ -205,6 +203,12 @@ body {
   background: #2e2f42;
 }
 .footer-color-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
   color: #f4f4fd;
 }
 /* ================ /FOOTER STYLES ================ */
